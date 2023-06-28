@@ -1,0 +1,22 @@
+#title {
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+.background {
+    background-color: #e2dbc8;
+}
+.recipie {
+    color: #9e714e;
+}
+
+.icon {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.chef {
+    height: 300px;
+    align-self: center;
+    margin-left: 50%;
+}
