@@ -17,6 +17,21 @@
 }
 .chef {
     height: 300px;
-    align-self: center;
-    margin-left: 50%;
+    padding-left: 45%;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 30px;
+    margin: 10px;
+
+}
+
+.foodpics {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 50px;
 }
